@@ -1,0 +1,2 @@
+# AndroidSerialPortQ
+适用于Android10之后的串口工具
